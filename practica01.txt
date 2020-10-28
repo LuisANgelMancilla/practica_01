@@ -1,0 +1,33 @@
+
+MSAG@MSAG-PC ~
+$ mkdir GenomicaComputacional
+
+MSAG@MSAG-PC ~
+$ dir
+GenomicaComputacional  muse
+
+MSAG@MSAG-PC ~
+$ rmdir muse
+
+MSAG@MSAG-PC ~
+$ dir
+GenomicaComputacional
+
+MSAG@MSAG-PC ~
+$ cd GenomicaComputacional
+
+MSAG@MSAG-PC ~/GenomicaComputacional
+$ mkdir lmancilla_p01
+
+MSAG@MSAG-PC ~/GenomicaComputacional
+$ cd lmancilla_p01
+
+MSAG@MSAG-PC ~/GenomicaComputacional/lmancilla_p01
+$ touch comandos_p01.md
+
+MSAG@MSAG-PC ~/GenomicaComputacional/lmancilla_p01
+$ dir
+comandos_p01.md
+
+MSAG@MSAG-PC ~/GenomicaComputacional/lmancilla_p01
+$
